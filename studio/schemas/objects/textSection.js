@@ -3,12 +3,7 @@ export default {
   name: 'textSection',
   title: 'Text',
   fields: [
-    {
-      name: 'label',
-      type: 'string',
-      title: 'Label',
-    },
-    {
+   {
       name: 'heading',
       type: 'string',
       title: 'Heading',
