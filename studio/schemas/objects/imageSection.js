@@ -8,12 +8,7 @@ export default {
       type: 'string',
       title: 'Heading',
     },
-    {
-      name: 'label',
-      type: 'string',
-      title: 'Label',
-    },
-    {
+   {
       name: 'text',
       type: 'simplePortableText',
       title: 'Text',
